@@ -13,37 +13,37 @@ import {
 
 const data = [
   {
-    name: "Sun",
+    name: "Dom",
     visit: 4000,
     click: 2400,
   },
   {
-    name: "Mon",
+    name: "Lun",
     visit: 3000,
     click: 1398,
   },
   {
-    name: "Tue",
+    name: "Mar",
     visit: 2000,
     click: 3800,
   },
   {
-    name: "Wed",
+    name: "Mie",
     visit: 2780,
     click: 3908,
   },
   {
-    name: "Thu",
+    name: "Jue",
     visit: 1890,
     click: 4800,
   },
   {
-    name: "Fri",
+    name: "Vie",
     visit: 2390,
     click: 3800,
   },
   {
-    name: "Sat",
+    name: "Sab",
     visit: 3490,
     click: 4300,
   },
