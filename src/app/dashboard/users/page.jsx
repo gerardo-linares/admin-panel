@@ -8,9 +8,9 @@ const UsersPage = () => {
   return (
     <div className={styles.container}>
       <div className={styles.top}>
-        <Search placeholder="Search for a user..." />
+        <Search placeholder="Buscar usuario..." />
         <Link href="/dashboard/users/add">
-          <button className={styles.addButton}>Add New</button>
+          <button className={styles.addButton}>Agregar</button>
         </Link>
       </div>
       <table className={styles.table}>

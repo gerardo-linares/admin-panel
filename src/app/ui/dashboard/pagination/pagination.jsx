@@ -6,9 +6,9 @@ const Pagination = () => {
   return (
     <div className={styles.container}>
       <button className={styles.button} disabled>
-        Previous
+        Anterior
       </button>
-      <button className={styles.button}>Next</button>
+      <button className={styles.button}>Siguiente</button>
     </div>
   );
 };
